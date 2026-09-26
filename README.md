@@ -57,25 +57,6 @@ The engine utilizes **EfficientNetB0**, which uses a compound scaling method to 
 
 ## 💻 Running Locally
 
-1. **Clone & Setup:**
-   ```bash
-   git clone https://github.com/Dkdiv890/Mini-Project-4-sem.git
-   cd "alok gn"
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch:**
-   ```bash
-   python app.py
-   ```
-   *Visit `http://127.0.0.1:8080` in your browser.*
-
----
-
 ## 📂 Project Structure
 - `app.py`: Flask API & Model Loading Logic
 - `templates/`: HTML structures
