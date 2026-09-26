@@ -57,6 +57,17 @@ The engine utilizes **EfficientNetB0**, which uses a compound scaling method to 
 
 ## 💻 Running Locally
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Akriti369/CNN-Waste-Segregation-paper-metal-plastic.git
+cd CNN-Waste-Segregation-paper-metal-plastic
+###2. Install Dependencies
+pip install -r requirements.txt
+###3. Run the Application
+python app.py
+###4. Open in Browser
+http://127.0.0.1:5000
+
 ## 📂 Project Structure
 - `app.py`: Flask API & Model Loading Logic
 - `templates/`: HTML structures
