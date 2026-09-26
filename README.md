@@ -67,7 +67,7 @@ pip install -r requirements.txt
 python app.py
 ###4. Open in Browser
 http://127.0.0.1:5000
-
+---
 ## 📂 Project Structure
 - `app.py`: Flask API & Model Loading Logic
 - `templates/`: HTML structures
@@ -76,6 +76,3 @@ http://127.0.0.1:5000
 - `AI_Training_Source_Code/`: Original training scripts and data loaders
 
 ---
-<div align="center">
-  <sub>Developed with ❤️ for Academic Excellence in AI & Machine Learning.</sub>
-</div>
