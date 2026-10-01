@@ -24,7 +24,7 @@ pinned: false
 This project presents a state-of-the-art waste classification system that identifies **Metal, Paper, and Plastic** waste using **CNN Fine Tuning** with the **EfficientNetB0** architecture, achieving an impressive **97% validation accuracy**.
 
 ### ✨ Highlights
-- **Premium Dark-Mode UI:** A modern, glassmorphism-inspired web interface built with Flask and Vanilla CSS/JS.
+- **UI:** A modern, glassmorphism-inspired web interface built with Flask and Vanilla CSS/JS.
 - **EfficientNetB0 Power:** High-accuracy classification with low computational overhead, optimized for cloud deployment.
 - **Real-Time Analysis:** Instant results with confidence scoring and recycling tips.
 - **Production-Ready:** Fully configured for deployment on Render.com with memory-optimized startup logic.
